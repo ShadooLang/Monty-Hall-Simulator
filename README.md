@@ -26,3 +26,10 @@ The program itself will simulate 6 strategies concurrently:
 At the end the program will output a table of the names of the strategies along with their number of wins and win percentages.
 
 With a little bit of tweaking of the code, the program can simulate many other types of strategies and numerically solve other variations of the Monty Hall problem.
+
+Here are some example outputs of the program:
+![](https://i.imgur.com/PXRvqg3.png)
+![](https://i.imgur.com/6RVgHR6.png)
+![](https://i.imgur.com/GVXves2.png)
+![](https://i.imgur.com/5Hm2TTl.png)
+![](https://i.imgur.com/kq8ozJU.png)
