@@ -1,4 +1,4 @@
-# Monty-Hall-Simulator
+# n-Doors-Monty-Hall-Simulator
 A C++ Program which simulates n number of doors k number of times.
 
 In the classical Monty Hall Problem, suppose you're in a gameshow and you're give the choice of 3 doors.
